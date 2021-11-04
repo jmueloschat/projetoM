@@ -4,3 +4,4 @@ var 2
 var 3 : string
 -------
 novas coisas
+nova funcao
